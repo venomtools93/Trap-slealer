@@ -56,6 +56,13 @@
 
 💻 - Windows Crasher: Make windows do a BSOD (Blue Screen of Death)
 
+
+![image](https://github.com/venomtools93/Trap-slealer/assets/153768593/9ff16c99-e437-4855-9ecf-83a5e48de92b)
+
+![image](https://github.com/venomtools93/Trap-slealer/assets/153768593/f3e0ec31-6252-460a-a3c4-40a834be244b)
+
+
+
 🪐 - Browser History Stealer: Steals history search of multiple browsers (Chrome, Opera/GX, Firefox, Edge, Safari, Internet Explorer, Brave)
 
 🪟 - Hide windows: Make the command prompt disappear.
