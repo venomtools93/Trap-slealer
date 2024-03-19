@@ -59,3 +59,6 @@
 🪐 - Browser History Stealer: Steals history search of multiple browsers (Chrome, Opera/GX, Firefox, Edge, Safari, Internet Explorer, Brave)
 
 🪟 - Hide windows: Make the command prompt disappear.
+![image](https://github.com/venomtools93/Trap-slealer/assets/153768593/09474084-b519-4862-902f-b7715afa6dfa)
+
+![image](https://github.com/venomtools93/Trap-slealer/assets/153768593/94771b70-b8ea-478a-8b59-633ee1062a84)
